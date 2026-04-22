@@ -4,3 +4,6 @@
 
 #python-
 env/
+
+#dataBase
+Task_management_api/db.sqlite3
